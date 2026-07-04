@@ -3,7 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezf1rst&label=Profile%20views&color=0e75b6&style=flat" alt="rezf1rst" /> </p>
 
+- i'm currently working on **🤖 AI-powered Python applications**
+
+- i'm currently learning **🧠 Advanced Deep Learning, LLMs & AI Agents**
+
+- i'm looking to collaborate on **🚀 Artificial Intelligence & Open Source Projects**
+
+- i'm looking for help with **🤝 Large Language Models (LLMs) & MLOps**
+
 - 👨‍💻 All of my projects are available at [https://github.com/RezF1rst](https://github.com/RezF1rst)
+
+- Ask me about **🐍 Python • 🤖 AI • 📊 Machine Learning • 🧠 Deep Learning**
 
 - 📫 How to reach me **rezasahbi129@gmail.com**
 
