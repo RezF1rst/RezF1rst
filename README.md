@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">🐍 Python Developer | 🤖 AI, ML & DL Engineer | 💡 IFIA "Inv" Member</h3>
 
-<img algin="right" alt="Rez" width = "400" src="[[https://pin.it/6r5XYHYrO](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://mir-s3-cdn-cf.behance.net/project_modules/disp/2c4181114445403.603bc566bdfc4.gif)">
+<img align="right" alt="Rez" width="400" src="https://i.pinimg.com/originals/a5/1b/c4/a51bc4a8e26a085c1afd66be98cca6a8.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezf1rst&label=Profile%20views&color=0e75b6&style=flat" alt="rezf1rst" /> </p>
 
