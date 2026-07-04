@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Reza</h1>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/36/a3/13/36a31351d17f0fdaf784b28affda5085.gif"
+       width="100%"
+       height="280">
+</p>
+<h1 align="center">RezF1rst</h1>
 <h3 align="center">🐍 Python Developer | 🤖 AI, ML & DL Engineer | 💡 IFIA "Inv" Member</h3>
-
 <img align="right" alt="Rez" width="400" src="https://i.pinimg.com/originals/a5/1b/c4/a51bc4a8e26a085c1afd66be98cca6a8.gif" />
-
+<img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" width="400"  alt="Second GIF" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezf1rst&label=Profile%20views&color=0e75b6&style=flat" alt="rezf1rst" /> </p>
 
 - i'm currently working on **🤖 AI-powered Python applications**
